@@ -1,0 +1,1 @@
+web: gunicorn nandiesgarden_project.wsgi
